@@ -13,4 +13,4 @@ Ce projet combine la reconnaissance vocale, l'intelligence artificielle de Mistr
 Avant de commencer, vous devez installer les bibliothèques nécessaires :
 
 ```bash
-pip install elevenlabs speechrecognition pygame requests
+pip install elevenlabs SpeechRecognition pygame requests
