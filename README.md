@@ -4,7 +4,7 @@ Ce projet combine la reconnaissance vocale, l'intelligence artificielle de Mistr
 
 ## Fonctionnalités
 1. **Reconnaissance vocale** : Utilisation de la bibliothèque `speech_recognition` pour écouter les questions de l'utilisateur via un microphone.
-2. **IA Poétique** : Les réponses sont générées par Mistral avec une personnalité de fantôme poétique qui bégaye et utilise des figures de style surprenantes.
+2. **IA Poétique** : Les réponses sont générées par Mistral avec une personnalité poétique, dyslexique qui bégaye et utilise des figures de style surprenantes.
 3. **Synthèse vocale** : Utilisation de la bibliothèque `ElevenLabs` pour transformer les réponses textuelles en audio.
 4. **Lecture audio** : L'audio généré est joué via `pygame`.
 
